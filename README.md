@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Abhi 👋
 
-<!--
-**AbhiWebDesigner/AbhiWebDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation Developer | Web Developer | UI/UX Designer
 
-Here are some ideas to get you started:
+Building AI-powered automation tools, websites, and creator solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- AI Automation Developer
+- Web Developer
+- UI/UX Designer
+- Building AI tools for creators and businesses
+- All ai agent tools creative &automation
+
+### 💻 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- Git & GitHub
+
+### 🔥 Featured Projects
+- ReplyAura Website
+- YouTube AI Moderation Bot
+- Instagram AI Automation
+- Portfolio Website
+- and need more projects
+- pending....
+  
+### 📈 Current Focus
+- AI Automation
+- SaaS Development
+- Web Applications
+- Creator Tools
+
+### 📫 Contact
+
+GitHub: https://github.com/AbhiWebDesigner
