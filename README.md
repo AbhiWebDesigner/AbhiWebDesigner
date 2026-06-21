@@ -24,8 +24,7 @@ Building AI-powered automation tools, websites, and creator solutions.
 - YouTube AI Moderation Bot
 - Instagram AI Automation
 - Portfolio Website
-- and need more projects
-- pending....
+- Continuously building AI automation and web development projects.
   
 ### 📈 Current Focus
 - AI Automation
