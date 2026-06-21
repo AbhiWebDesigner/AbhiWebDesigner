@@ -5,18 +5,23 @@ AI Automation Developer • Web Developer • UI/UX Designer
 </h3>
 
 <p align="center">
-Building AI-powered automation tools, AI agents, and modern web applications.
+Building AI-powered automation tools, AI agents, SaaS products, and modern web applications.
 </p>
 
-### 🚀 About Me
+---
 
-- AI Automation Developer
-- Web Developer
-- UI/UX Designer
-- Building AI tools for creators and businesses
-- Creating automation workflows and AI agents
+## 🚀 About Me
 
-### 💻 Tech Stack
+- 🤖 AI Automation Developer
+- 🌐 Web Developer
+- 🎨 UI/UX Designer
+- ⚡ Building AI tools for creators and businesses
+- 🧠 Creating AI agents and automation workflows
+- 🚀 Turning ideas into AI-powered products
+
+---
+
+## 💻 Tech Stack
 
 - HTML
 - CSS
@@ -24,27 +29,54 @@ Building AI-powered automation tools, AI agents, and modern web applications.
 - React
 - Python
 - Git & GitHub
+- Firebase
+- Supabase
+- OpenAI API
 
-### 🔥 Featured Projects
+---
 
-- ReplyAura Website
-- YouTube AI Moderation Bot
-- Instagram AI Automation
-- Portfolio Website
+## 🔥 Featured Projects
 
-🤖 Building intelligent AI agents, automation systems, and scalable web solutions.
+### 🤖 ReplyAura Website
+AI-powered creator automation platform.
 
-### 🎯 Current Focus
+### 🎬 YouTube AI Moderation Bot
+Automatic toxic comment detection and moderation system.
 
-- AI Agents
+### 📸 Instagram AI Automation
+Auto replies, DM automation, and engagement workflows.
+
+### 🌐 Portfolio Website
+Modern personal portfolio showcasing projects and skills.
+
+### 🚀 More Projects Coming Soon
+Currently building new AI automation and SaaS products.
+
+---
+
+## 🎯 Current Focus
+
 - AI Automation
+- AI Agents
 - SaaS Development
 - Web Applications
+- Creator Tools
 
-### 📍 Location
+---
 
-India
+## 📈 Goals
 
-### 📫 Contact
+- Build scalable AI products
+- Help creators automate workflows
+- Launch successful SaaS platforms
+- Create innovative AI solutions
+
+---
+
+## 📫 Contact
 
 GitHub: https://github.com/AbhiWebDesigner
+
+---
+
+⭐ Thanks for visiting my profile!
