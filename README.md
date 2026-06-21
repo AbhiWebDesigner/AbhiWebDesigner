@@ -9,15 +9,6 @@ Building AI-powered automation tools, AI agents, and modern web applications.
 </p>
 
 ### 🚀 About Me
-...
-
-# 🤖 Abhi AI Lab
-
-## AI Automation Developer | Web Developer | UI/UX Designer
-
-Building AI-powered automation tools, websites, and creator solutions.
-
-### 🚀 About Me
 
 - AI Automation Developer
 - Web Developer
