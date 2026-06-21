@@ -1,5 +1,11 @@
+<h1 align="center">🤖 Abhi AI Lab</h1>
+
+<h3 align="center">
+AI Automation Developer • Web Developer • UI/UX Designer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+Automation+Developer;Building+AI+Agents;Web+Developer;UI%2FUX+Designer;Creating+AI+Tools+and+Automation" />
+Building AI-powered automation tools, AI agents, and modern web applications.
 </p>
 
 # 🤖 Abhi AI Lab
