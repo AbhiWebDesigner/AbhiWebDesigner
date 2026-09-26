@@ -13,22 +13,12 @@
 ## 🚀 About Me
 
 I’m a passionate developer focused on building clean, modern, and user-friendly digital experiences.  
-I enjoy turning ideas into impactful web products, solving real-world problems, and crafting interfaces that feel both functional and premium.
+I enjoy turning ideas into impactful web products, solving real-world problems, and creating interfaces that feel both functional and premium.
 
 - 💡 Designing elegant user experiences
 - 🧠 Learning modern frontend and backend workflows
 - ⚙️ Building scalable, fast, and responsive apps
 - 🌍 Open to collaborations, freelance work, and product ideas
-
----
-
-## 🧠 Core Strengths
-
-- Frontend development with React, Next.js, and modern UI systems
-- Backend development with Node.js and API integration
-- Responsive design and clean component architecture
-- User-focused product thinking and polished UX
-- Performance optimization and problem-solving mindset
 
 ---
 
@@ -58,26 +48,26 @@ I enjoy turning ideas into impactful web products, solving real-world problems, 
 
 ## 📌 Featured Projects
 
-### 1. ModerateAI
+### 1. Abhi Dev Portfolio
+A personal portfolio and landing page showcasing creative web design, branding, and software craftsmanship.
+
+- 🔧 Tech: HTML, CSS, JavaScript
+- 🌐 Live Demo: [View Project](https://abhiwebdesigner.github.io/Abhi-dev.github.io/)
+- 💻 Repo: [GitHub Repository](https://github.com/AbhiWebDesigner/Abhi-dev.github.io)
+
+### 2. ModerateAI
 A modern web application focused on intelligent user experiences, clean design, and practical functionality.
 
 - 🔧 Tech: React, Node.js, MongoDB
 - 🌐 Live Demo: [View Project](https://moderateai.site/demo)
 - 💻 Repo: [GitHub Repository](https://github.com/AbhiWebDesigner/modrateai)
 
-### 2. ReplyAura
+### 3. ReplyAura
 A sleek and responsive website built to deliver a premium digital presence with polished UX and modern design standards.
 
 - 🔧 Tech: Next.js, TypeScript, Firebase
 - 🌐 Live Demo: [View Project](https://replyaura-website.vercel.app/)
 - 💻 Repo: [GitHub Repository](https://github.com/AbhiWebDesigner/replyaura-website)
-
-### 3. Abhi Dev Portfolio
-A personal portfolio and landing page showcasing creative web design, branding, and software craftsmanship.
-
-- 🔧 Tech: HTML, CSS, JavaScript
-- 🌐 Live Demo: [View Project](https://abhiwebdesigner.github.io/Abhi-dev.github.io/)
-- 💻 Repo: [GitHub Repository](https://github.com/AbhiWebDesigner/Abhi-dev.github.io)
 
 ---
 
